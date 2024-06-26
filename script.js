@@ -3,20 +3,20 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "I Have Crush On You!!",
-        desc: ""
+        title: "Aku ingin mengutarakan sesuatu",
+        desc: "Ini sebuah perasaan yang terpendam"
     }, {
-        title: "I Have Crush On You!!",
-        desc: "mungkin itu sebuah kalimat yg cukup simple, kalimat yang menyimpan banyak harapan juga keraguan dibaliknya. ada harapan yg ingin rasa suka itu tidak jatuh sendirian, juga ada yg harus disiapkan agar bisa menerima konsekuensinya."
+        title: "Pertemuan Pertama di Toko Kelontong",
+        desc: "Jujur, saat pertama kali kita bertemu, aku tak punyai persiapan untuk menghadapi apapun termasuk perasaan cinta. maaf. sebenarnya, sebelumnya aku ragu. aku selalu bertanya kepada diriku sendiri, apakah aku bisa jatuh cinta dan merasakan perasaan itu kembali?"
     }, {
-       title: "",
-       desc: "menyatakan perasaan itu hal yg cukup serius, banyak yg akan dikorbankan termasuk hasil akhirnya melepas hal yg sudah Iama tersimpan itu cukup melegakan dan bukan hal yg mudah.Disini Aku cuman mau ungkapin perasaan aku sama kamu,masalah diterima atau ngga itu tergantung kamu nya,aku juga gak bakal berharap lebih kok"
+       title: "Telaga Mangunan",
+       desc: "di Telaga Mangunan kita berbincang banyak agar bisa saling mengenal lebih. awalnya aku pikir kamu adalah perempuan yang sama seperti kebanyakan orang, aku salah, aku jatuh pada sifat dan caramu berpikir. kamu bilang padaku harus yakin kepada diri dan perasaanku sendiri. ingatkah kau?"
     }, {
-        title: "",
-        desc: "Kalau Kamu Risih Bilang yahh,'I Have Crush On You',Semisal kamu udah punya pacar maaf yaa karna udah confess ke kamu...mungkin segitu saja dari aku,hehe makasih yaa sudah mau dibaca."
+        title: "Inikah Cinta yang Hilang itu?",
+        desc: "Pada saat itu aku merasakan ada benih perasaan yang muncul secara liar dalam hati. Segala ragu telah hilang, Aku merasakan hidup kembali sejak bertemu denganmu. Aku merasakan perasaan yang telah lama hilang dalam hidupku. TERIMAKASIH ya"
     }, {
-        title: "I Have Crush On You!!",
-        desc: "Aku tunggu Balasan Mu:)"
+        title: "Harapan",
+        desc: "Aku sangat berharap kamu akan menjadi manusia terakhir bagiku, yang akan mengisi hari-hariku dengan bahagia. Aku ingin menjadi yang terakhir pada pencarian cintamu, dan Aku akan jadikan kamu tempat berlabuh terakhir pada kapal cintaku. sekarang kamu boleh hadap belakang"
  }];
     var currentPage = 0;
     //generate content
