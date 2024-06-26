@@ -3,10 +3,10 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "Aku ingin mengutarakan sesuatu",
-        desc: "Ini sebuah perasaan yang terpendam"
+        title: " Hai Aku ingin mengutarakan sesuatu",
+        desc: "Ini tentang sebuah perasaan yang terpendam"
     }, {
-        title: "Pertemuan Pertama di Toko Kelontong",
+        title: "Pertemuan Pertama",
         desc: "Jujur, saat pertama kali kita bertemu, aku tak punyai persiapan untuk menghadapi apapun termasuk perasaan cinta. maaf. sebenarnya, sebelumnya aku ragu. aku selalu bertanya kepada diriku sendiri, apakah aku bisa jatuh cinta dan merasakan perasaan itu kembali?"
     }, {
        title: "Telaga Mangunan",
@@ -16,7 +16,7 @@ $(document).ready(function () {
         desc: "Pada saat itu aku merasakan ada benih perasaan yang muncul secara liar dalam hati. Segala ragu telah hilang, Aku merasakan hidup kembali sejak bertemu denganmu. Aku merasakan perasaan yang telah lama hilang dalam hidupku. TERIMAKASIH ya"
     }, {
         title: "Harapan",
-        desc: "Aku sangat berharap kamu akan menjadi manusia terakhir bagiku, yang akan mengisi hari-hariku dengan bahagia. Aku ingin menjadi yang terakhir pada pencarian cintamu, dan Aku akan jadikan kamu tempat berlabuh terakhir pada kapal cintaku. sekarang kamu boleh hadap belakang"
+        desc: "Aku sangat berharap kamu akan menjadi manusia terakhir bagiku, yang akan mengisi hari-hariku dengan bahagia. Aku ingin menjadi yang terakhir pada pencarian cintamu, dan Aku akan jadikan kamu tempat berlabuh terakhir pada kapal cintaku."
  }];
     var currentPage = 0;
     //generate content
